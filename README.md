@@ -9,7 +9,7 @@ AsesoriasColmillo es una aplicación para day y recibir asesorias de materias de
 # Especificación de requerimientos de software
 
 El documento de especificación de requerimientos de software se encuentra en el siguiente enlace:
-[Requerimientos de software para AsesoriasColmillo](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/Requerimiento%20de%20Software).
+[Requerimientos de software para AsesoriasColmillo](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/Requerimiento%20de%20Software.md).
 
 Los casos de uso de los requerimientos se encuentran en:
 [3 casos de uso](#casos)
