@@ -49,7 +49,7 @@ Se implementará la metodología AGILE porque utiliza periodos cortos de desarro
 
 La aplicación de AsesoriasITAM se encuentra en el siguiente enlace:
 
-https: 
+https://aguilaralvaandrea.wixsite.com/asesoriasitam
 
 ## Documentación para replicar
 
