@@ -29,7 +29,13 @@ Para garantizar que la aplicación AsesoriasColmillo cuente con todos los requer
 
 ## Arquitectura
 
-Elegimos una arquitectura combinada 
+Elegimos la arquitectura de microservidores, esto porque vamos a tener diferentes componentes en nuestra aplicación. De esta forma, vamos a tener los diferentes componentes conectados a una base central. En específico, las características que ofrecerá nuestra arquitectura es:
+
+* Agilidad: como los componentes están separados, esto va a permitir funcionar de manera independiente y poder hacer cambios rápidos y adaptables. 
+* Fácil despliegue: como los servicios van a estar por separado, va a facilitar el deploy. Y en caso de problemas, es fácil aislarlos y poder resolverlos. 
+* Fácil de probar: ya que los servicios están por separado.
+* Escalabilidad: se puede escalar rápidamente, ya que si es necesario se puede escalar un servicio a la vez. 
+* Fácil de desarrollar: ya que hay una API central que controla todo. 
 
 ## Metodología
 
