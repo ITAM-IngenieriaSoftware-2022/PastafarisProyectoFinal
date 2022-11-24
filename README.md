@@ -18,9 +18,9 @@ Los apartados que no aparecen en el documento de especificación de requerimient
 
 ## Casos de uso <a name="casos"></a> 
 
-- [Caso de uso para inicio de sesión](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal)
-- [Caso de uso para establecer horiarios en que un usuario puede dar asesoria](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal)
-- [Caso de uso para agendar una asesoria](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal)
+- [Caso de uso para inicio de sesión](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/InicioSesion.png)
+- [Caso de uso para establecer horiarios en que un usuario puede dar asesoria](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/EstablecerHorarios.png)
+- [Caso de uso para agendar una asesoria](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/AgendarAsesoria.png)
 
 ## Plan de Calidad
 
