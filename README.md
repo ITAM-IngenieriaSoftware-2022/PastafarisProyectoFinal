@@ -24,7 +24,7 @@ Los apartados que no aparecen en el documento de especificación de requerimient
 
 ## Plan de Calidad
 
-Para garantizar que la aplicación AsesoriasColmillo cuente con todos los requerimientos de calidad, se seguira este [Plan de Calidad](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal). Implementaremos medidas que fomenten la disponibilidad a la par de medidas que aseguren la autenticación del usuario. Haremos pruebas para medir y mejorar la fiabilidad y rendimiento de nuestra aplicación. Finalmente  cuidaremos que nuestro software sea fácil de mantener para obtener un producto de calidad.
+Para garantizar que la aplicación AsesoriasColmillo cuente con todos los requerimientos de calidad, se seguira este [Plan de Calidad](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/PlanDeCalidad.md). Implementaremos medidas que fomenten la disponibilidad a la par de medidas que aseguren la autenticación del usuario. Haremos pruebas para medir y mejorar la fiabilidad y rendimiento de nuestra aplicación. Finalmente  cuidaremos que nuestro software sea fácil de mantener para obtener un producto de calidad.
 
 
 ## Arquitectura
