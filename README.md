@@ -54,8 +54,9 @@ https://aguilaralvaandrea.wixsite.com/asesoriasitam
 ## Documentación para replicar
 
   La guía para la visualización la aplicación:
-  1. Ingresar al enlace: https:
-  2. Navegar 
+  1. Ingresar al enlace: https://aguilaralvaandrea.wixsite.com/asesoriasitam
+  2. Ingresar con tu correo.
+  3. Navegar.
 
 ## Propuesta económica
 
