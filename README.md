@@ -47,7 +47,7 @@ Se implementa una metodología ágil porque utiliza periodos cortos de desarroll
 
 ## Código
 
-La aplicación de AsesoriasITAM se encuentra en el siguiente enlace:
+La aplicación de AsesoriasITAM se encuentra en el siguiente enlace y fue creada con la plataforma wix:
 
 https://aguilaralvaandrea.wixsite.com/asesoriasitam
 
