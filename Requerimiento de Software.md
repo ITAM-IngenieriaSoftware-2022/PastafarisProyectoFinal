@@ -56,17 +56,22 @@ Noviembre 2022
   - Consultar asesorias: se exhiben las asesorias disponibles en el calendario con su información relevante. 
   - Agendar asesoria: el usuario selecciona una asesoria y la reserva.
   - Calificar asesoria: el usuario puede checar las asesorias pasadas y calificarlas y dejas comentarios.
+  ![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/Captura%20de%20pantalla%202022-11-24%20213206.png)
+
 
   Página principal:
   - Proponer una asesoria: manda al usuario a la pantalla "Proponer una asesoria".
   - Consultar asesorias: manda al usuario a la pantalla "Consultar asesorias".
   - Calificar asesoria: manda al usuario a la pantalla "Calificar asesoria".
   - Cerrar Sesión: se cierra la sesión actual.
+  ![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/WhatsApp%20Image%202022-11-24%20at%208.59.56%20PM.jpeg)
   
   Iniciar sesión:
   - Correo: el usuario ingresa su correo institucional.
   - Contraseña: el usuario ingresa su contraseña.
   - Ingresar: comprueba que los datos ingresados por el usuario sean correctos y lo manda a la página principal.
+  
+![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/WhatsApp%20Image%202022-11-24%20at%208.59.56%20PM%20(1).jpeg)
   
   Proponer una asesoria:
   - Nombre de la asesoria: el usuario ingresa el nombre de la asesoria que puede dar.
@@ -75,15 +80,25 @@ Noviembre 2022
   - Enviar: comprueba que los datos ingresados por el usuario sean correctos.
   - Página principal: regresa a la vista de la página principal.
   
+![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/WhatsApp%20Image%202022-11-24%20at%208.59.56%20PM%20(2).jpeg)
+
+![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/WhatsApp%20Image%202022-11-24%20at%208.59.56%20PM%20(3).jpeg)
+  
   Consultar asesorias:
   - Barra de búsqueda: el usuario escribe el nombre de la materia que desea buscar.
   - El usuario va a haber una lista de posibles asesorias, con su autor y horarios.
   - Botón "Más información": va a abrir la asesoria para mostrar toda la descripción de la asesoria.
   - Botón "Agendar asesoria": va a reservar la asesoria y te va a pedir proceder a la sección de pago de la asesoria. 
   - Página principal: regresa a la vista de la página principal.
+  
+![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/WhatsApp%20Image%202022-11-24%20at%208.59.57%20PM.jpeg)
 
-  Calificar asesoria:
-  - Observa una lista de todas las asesorias que ha recibido en la última semana. Puede seleccionar una y calificar con estrillitas como estuvo la asesoria y agregar comentarios.
+![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/WhatsApp%20Image%202022-11-24%20at%208.59.57%20PM%20(1).jpeg)
+
+![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/WhatsApp%20Image%202022-11-24%20at%208.59.57%20PM%20(2).jpeg)
+
+
+  
   - Página principal: regresa a la vista de la página principal.
 
   ### 2.3 Clases de usuario y características
