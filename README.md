@@ -39,7 +39,7 @@ Elegimos la arquitectura de microservidores, esto porque vamos a tener diferente
 
 ## Metodología
 
-Se implementará la metodología ágil porque utiliza periodos cortos de desarrollo llamado Sprints. Las razopnes por las que se eligió esta metodología son:
+Se implementa una metodología ágil porque utiliza periodos cortos de desarrollo llamado Sprints. Las razopnes por las que se eligió esta metodología son:
 
 * Su enfoque es adaptativo, lo que permite la posibilidad de hacer cambios y los acepta favorablemente; 
 * Permite comunicación directa, lo que mantiene el proyecto transparente para todes les integrantes del equipo. 
