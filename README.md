@@ -60,6 +60,8 @@ https://aguilaralvaandrea.wixsite.com/asesoriasitam
 ## Propuesta económica
 
 Para lograr un balance entre el alcance, tiempo y costo de nuestro proyecto realizamos la siguiente [Propuesta económica para AsesoriasColmillo](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal)
+Una primera alternativa es que se podría considerar una comisión por asesoría implementada, es decir, por cada sesión brindada. Como segunda opción, se podría considerar un pago por suscripción a un número definido de asesorías estandar.
+
 
 ## Presentación del proyecto
 
