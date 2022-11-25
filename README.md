@@ -4,7 +4,7 @@ Integrantes:
 Diana Espinosa, Andrea Aguilar, Jesús Jauregui y Moises Aguirre. 
 
 
-AsesoriasColmillo es una aplicación para day y recibir asesorias de materias del ITAM. Son les alumnes los que van a poner en que horarios pueden dar asesorias y las materias de las que pueden dar. Luego, otro alumne es el que va a ver los posibles horarios que existen para la materia que quiere y en caso de coincidir en el horario con alguna va a agendar la asesoria. Con ayuda del ITAM se va a tener registro de los horarios en la que los salones están disponibles, para que a la hora de agendar una asesoria se pueda agendar un salón en caso de disponibilidad, en caso de que no haya disponibilidad dirá "Sin salón". El precio de la asesoria se ve desde la aplicación y el pago va a requerir el direccionamiento a un baco para realizar el pago. 
+AsesoriasITAM es una aplicación para day y recibir asesorias de materias del ITAM. Son les alumnes los que van a poner en que horarios pueden dar asesorias y las materias de las que pueden dar. Luego, otro alumne es el que va a ver los posibles horarios que existen para la materia que quiere y en caso de coincidir en el horario con alguna va a agendar la asesoria. Con ayuda del ITAM se va a tener registro de los horarios en la que los salones están disponibles, para que a la hora de agendar una asesoria se pueda agendar un salón en caso de disponibilidad, en caso de que no haya disponibilidad dirá "Sin salón". El precio de la asesoria se ve desde la aplicación y el pago va a requerir el direccionamiento a un baco para realizar el pago. 
 
 # Especificación de requerimientos de software
 
