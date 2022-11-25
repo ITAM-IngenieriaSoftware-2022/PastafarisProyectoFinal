@@ -60,9 +60,12 @@ Noviembre 2022
 
 
   Página principal:
-  - Proponer una asesoria: manda al usuario a la pantalla "Proponer una asesoria".
-  - Consultar asesorias: manda al usuario a la pantalla "Consultar asesorias".
-  - Calificar asesoria: manda al usuario a la pantalla "Calificar asesoria".
+  - Home: estas en la página principal.
+  - Subjects: manda al usuario a una pantalla con una lista de las materias y temas que se tienen para asesorias.
+  - Group List: manda al usuario a una pantalla con los grupos que existen de las materias y sus asesorias.
+  - Plans & Pricing: manda a una página para que pagues por las asesorias que quieres recibir. 
+  - Program List: manda a una página con los programas o cursos que se ofrecen y cuanto cuesta y los miembros de esos programas. 
+  - Book Online: manda a una página con la lista de las asesorias y tengas la opción de reservar alguna. 
   - Cerrar Sesión: se cierra la sesión actual.
   ![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/WhatsApp%20Image%202022-11-24%20at%208.59.56%20PM.jpeg)
   
