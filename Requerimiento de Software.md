@@ -74,10 +74,11 @@ Noviembre 2022
 ![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/WhatsApp%20Image%202022-11-24%20at%208.59.56%20PM%20(1).jpeg)
   
   Proponer una asesoria:
-  - Nombre de la asesoria: el usuario ingresa el nombre de la asesoria que puede dar.
+  - Discussion
+  - Create post:
   - Descripción: el usuario da una descripción detallada de la asesoria, como diferentes temas que pueda dar.
   - Horarios: el usuario puede seleccionar uno o varios horarios en los que puede dar la asesoria.
-  - Enviar: comprueba que los datos ingresados por el usuario sean correctos.
+  - Post: comprueba que los datos ingresados por el usuario sean correctos.
   - Página principal: regresa a la vista de la página principal.
   
 ![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/WhatsApp%20Image%202022-11-24%20at%208.59.56%20PM%20(2).jpeg)
@@ -85,10 +86,8 @@ Noviembre 2022
 ![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/WhatsApp%20Image%202022-11-24%20at%208.59.56%20PM%20(3).jpeg)
   
   Consultar asesorias:
-  - Barra de búsqueda: el usuario escribe el nombre de la materia que desea buscar.
   - El usuario va a haber una lista de posibles asesorias, con su autor y horarios.
-  - Botón "Más información": va a abrir la asesoria para mostrar toda la descripción de la asesoria.
-  - Botón "Agendar asesoria": va a reservar la asesoria y te va a pedir proceder a la sección de pago de la asesoria. 
+  - Botón "Book now": va a abrir la asesoria para mostrar toda la descripción de la asesoria y va a reservar la asesoria y te va a pedir proceder a la sección de pago de la asesoria. 
   - Página principal: regresa a la vista de la página principal.
   
 ![](https://github.com/ITAM-IngenieriaSoftware-2022/PastafarisProyectoFinal/blob/main/WhatsApp%20Image%202022-11-24%20at%208.59.57%20PM.jpeg)
